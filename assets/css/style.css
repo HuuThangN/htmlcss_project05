@@ -477,6 +477,10 @@ a {
     bottom: -55px;
 }
 
+.about__heading--below {
+    width: 543px;
+}
+
 .about__desc-bottom {
     width: 511px;
 }
